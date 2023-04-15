@@ -62,8 +62,9 @@ Outside of web development, I love to do anything that engages my creativity. Th
 
 ## :chart_with_upwards_trend: Stats
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jadeli1720&bg_color=90,052D37,2793a1&hide=contribs&show_icons=true&hide_border=true&title_color=ff1b6f&text_color=fff&icon_color=ff1b6f" />
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io&bg_color=105,052D37,2793a1&hide_border=true&layout=compact&title_color=ff1b6f&text_color=fff&icon_color=ff1b6f" />
+
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-jadeli1720.vercel.app/api?username=jadeli1720&bg_color=90,052D37,2793a1&hide=contribs&show_icons=true&hide_border=true&title_color=ff1b6f&text_color=fff&icon_color=ff1b6f" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-jadeli1720.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io&bg_color=105,052D37,2793a1&hide_border=true&layout=compact&title_color=ff1b6f&text_color=fff&icon_color=ff1b6f" />
 
 <!-- Definitions -->
 [website]: https://www.jadeelopez.com/
