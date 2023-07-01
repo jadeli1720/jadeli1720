@@ -6,7 +6,8 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Codepen](https://img.shields.io/badge/codepen-white.svg?style=for-the-badge&logo=codepen&logoColor=black)][codepen]
 
-## Welcome to my profile &nbsp; ![Number of visitors](https://visitor-badge.glitch.me/badge?page_id=jadeli1720.jadeli1720&style=flat&color=brightgreen)
+## Welcome to my profile &nbsp; 
+<!--- ![Number of visitors](https://visitor-badge.glitch.me/badge?page_id=jadeli1720.jadeli1720&style=flat&color=deeppink) -->
 
 I'm a Software Developer who enjoys being immersed in a creatively charged atmosphere, very passionate about design, and love to learn and explore new technologies.
 
