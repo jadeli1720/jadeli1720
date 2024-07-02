@@ -9,9 +9,9 @@
 ## Welcome to my profile &nbsp; 
 <!--- ![Number of visitors](https://visitor-badge.glitch.me/badge?page_id=jadeli1720.jadeli1720&style=flat&color=deeppink) -->
 
-I'm a Software Developer who enjoys being immersed in a creatively charged atmosphere, very passionate about design, and love to learn and explore new technologies.
+I'm a Software Developer who enjoys being immersed in a creatively charged atmosphere, is passionate about design and loves learning and exploring new technologies.
 
-Outside of web development, I love to do anything that engages my creativity. This may include anything from singing/playing/listening to music of all genres, dancing, cooking, and drawing. I also have an obsession with :crossed_swords: Assassin's Creed and a love of all things :vulcan_salute: Star Trek!
+Outside of web development, I love to do anything that engages my creativity. This may include anything from singing/playing/listening to music of all genres, to dancing, cooking, and drawing. I am also obsessed with :crossed_swords: Assassin's Creed and a love of all things :vulcan_salute: Star Trek!
 
 </br>
 
